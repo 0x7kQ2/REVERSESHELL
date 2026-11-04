@@ -1,0 +1,20 @@
+# REVERSESHELL Dependencies
+
+# Core
+cryptography>=41.0.0
+
+# Screenshot
+Pillow>=10.0.0
+
+# Keylogger
+pynput>=1.7.6
+evdev>=1.7.1  # Linux only
+
+# Webcam
+opencv-python>=4.8.0
+
+# Microphone
+pyaudio>=0.2.13
+
+# Optional utilities
+requests>=2.31.0
